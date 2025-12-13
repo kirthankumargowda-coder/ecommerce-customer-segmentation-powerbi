@@ -1,0 +1,1 @@
+uploaded screenshots are from E_commerce_segmentation_dashboard.pbix
